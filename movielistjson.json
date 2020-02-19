@@ -1,0 +1,11 @@
+[
+  { "uid": 1, "name": "Avengers: Infinity War", "shortDesc": "Lorem Ipsum", "duration": 120, "thumbnailUrl": "https://assets.eventbase.com/apps/ios-interview-project/images/avg.jpg", "category": 1, "venue": 1 },
+  { "uid": 2, "name": "Deadpool 2", "shortDesc": "Lorem Ipsum", "duration": 120, "thumbnailUrl": "https://assets.eventbase.com/apps/ios-interview-project/images/deadpool.jpg", "category": 1, "venue": 2 },
+  { "uid": 3, "name": "Solo: A Star Wars Movie", "shortDesc": "Lorem Ipsum", "duration": 120, "thumbnailUrl": "https://assets.eventbase.com/apps/ios-interview-project/images/solo.jpg", "category": 1, "venue": 3 },
+  { "uid": 4, "name": "Game Night", "shortDesc": "Lorem Ipsum", "duration": 120, "thumbnailUrl": "https://assets.eventbase.com/apps/ios-interview-project/images/gamenight.jpg", "category": 2, "venue": 1 },
+  { "uid": 5, "name": "Blockers", "shortDesc": "Lorem Ipsum", "duration": 120, "thumbnailUrl": "https://assets.eventbase.com/apps/ios-interview-project/images/blockers.jpg", "category": 2, "venue": 2 },
+  { "uid": 6, "name": "Super Troopers", "shortDesc": "Lorem Ipsum", "duration": 120, "thumbnailUrl": "https://assets.eventbase.com/apps/ios-interview-project/images/super.jpg", "category": 2, "venue": 3 },
+  { "uid": 7, "name": "Adrift", "shortDesc": "Lorem Ipsum", "duration": 120, "thumbnailUrl": "https://assets.eventbase.com/apps/ios-interview-project/images/adrift.jpg", "category": 3, "venue": 1 },
+  { "uid": 8, "name": "Red Sparrow", "shortDesc": "Lorem Ipsum", "duration": 120, "thumbnailUrl": "https://assets.eventbase.com/apps/ios-interview-project/images/redsparrow.jpg", "category": 3, "venue": 2 },
+  { "uid": 9, "name": "12 Strong", "shortDesc": "Lorem Ipsum", "duration": 120, "thumbnailUrl": "https://assets.eventbase.com/apps/ios-interview-project/images/12strong.jpg", "category": 3, "venue": 3 }
+]

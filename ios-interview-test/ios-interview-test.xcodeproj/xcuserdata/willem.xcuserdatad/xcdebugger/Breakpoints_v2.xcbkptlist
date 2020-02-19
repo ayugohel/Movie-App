@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-interview-test/Controllers/FilmsVC.swift"
+            timestampString = "582056451.7971309"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_interview_test.FilmsVC.viewDidLoad() -&gt; ()"
+                  moduleName = "ios-interview-test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willem/Downloads/ios-interview-test/ios-interview-test/ios-interview-test/Controllers/FilmsVC.swift"
+                  timestampString = "582056451.8401459"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "469">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ios_interview_test.Film.Result&lt;Swift.Array&lt;ios_interview_test.Film&gt;&gt;) -&gt; () in ios_interview_test.FilmsVC.viewDidLoad() -&gt; ()"
+                  moduleName = "ios-interview-test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willem/Downloads/ios-interview-test/ios-interview-test/ios-interview-test/Controllers/FilmsVC.swift"
+                  timestampString = "582056451.842144"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

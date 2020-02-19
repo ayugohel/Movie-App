@@ -1,0 +1,5 @@
+[
+  { "uid": 1, "name": "AMC Kabuki", "address": "1881 Post St, San Francisco, CA 94115" },
+  { "uid": 2, "name": "AMC Metron", "address": "135 4th St, San Francisco, CA 9410" },
+  { "uid": 3, "name": "AMC Van Ness", "address": "1000 Van Ness Ave, San Francisco, CA 94109" }
+]
