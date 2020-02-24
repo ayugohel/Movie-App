@@ -6,9 +6,7 @@ This is a demo Movie Venue Detail Application.
 ## Info about Application 
 
 - Created Application with Xcode 10.3
-- Application target iOS 10 and above
-- Application is a responsive universal
-- Application  built in either Swift 5.0
+- Application  built in Swift 5.0
 
 ## Usage of the App
 
