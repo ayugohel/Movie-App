@@ -15,7 +15,6 @@ This is a demo Movie Venue Detail Application.
 #### How to Start and Run :
 
 1. Open **ios-interview-test.xcodeproj** file with Xcode Editor
-2. Run application with 'CMD + R'
 
 ## Getting Started
 
